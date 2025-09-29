@@ -38,3 +38,4 @@ Top 5 most requested paths
 /static/css/style.css          : 1234 requests
 ```
 
+Project URL: https://roadmap.sh/projects/nginx-log-analyser
